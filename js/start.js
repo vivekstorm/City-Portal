@@ -20,11 +20,9 @@
   
  $('.rrr').sideNav({
       menuWidth: 260, // Default is 240
-      //edge: 'right', // Choose the horizontal origin
-       // Closes side-nav on <a> clicks, useful for Angular/Meteor
     }
   );
 
 
-  }); // end of document ready
-})(jQuery); // end of jQuery name space
+  }); 
+})(jQuery); 
